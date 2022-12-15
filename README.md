@@ -1,7 +1,7 @@
 # Thee Glitch's Bubble Tea Stand 
 Cost calculator that takes user input for tea base, tea add-ons, and loyalty membership and outputs the total cost of the beverage. 
 
-Simply copy and paste the code in your favortite Python interpreter and run it.
+Simply copy and paste the code in your favorite Python interpreter and run it.
 
 https://www.programiz.com/python-programming/online-compiler/
 
